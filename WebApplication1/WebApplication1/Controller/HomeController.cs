@@ -8,9 +8,9 @@ namespace WebApplication1.Controller
 {
     public class HomeController  
     {
-        public IActionResult Index()
+        public String Index()
         {
-            return null;
+            return "";
         }
     }
 }
